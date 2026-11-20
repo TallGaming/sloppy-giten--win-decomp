@@ -2,6 +2,9 @@
 
 Binary-matching reconstruction of **Giten Megami Tensei: Tokyo Mokushiroku**
 (偽典・女神転生 東京黙示録; ASCII / Yū-Kikaku), the 1999 Windows `DDS.EXE`.
+
+The PC-98 Ver Is 100% Decomped Byte Matching
+
 The build compares reconstructed C and platform C++ with retail using MSVC 5.0 SP3.
 Resources: the resource script and IDs are recovered source; the bitmap, WAVE,
 cursor and icon payloads come from your original disc's `DDS.EXE` and are never tracked.
